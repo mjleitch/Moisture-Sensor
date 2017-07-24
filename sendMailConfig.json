@@ -1,0 +1,14 @@
+{
+  "alive": {
+    "from": "mjleitch@gmail.com",
+    "to": "mjleitch@gmail.com",
+    "subject": "Moisture Sensor Notification",
+    "text": "Panic over! Plant has water again :)"
+  },
+  "dead": {
+    "from": "mjleitch@gmail.com",
+    "to": "mjleitch@gmail.com",
+    "subject": "Message",
+    "text": "Warning, no moisture detected! Plant death imminent!!! :'("
+  }
+}
