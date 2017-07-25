@@ -29,6 +29,7 @@
     "raspi-io": "^8.0.1",
     "sanctuary-def": "0.13.0",
     "sanctuary-type-classes": "6.0.0",
+    "say": "^0.11.0",
     "sendmail": "1.1.1",
     "smtp-server": "3.0.1"
   }
